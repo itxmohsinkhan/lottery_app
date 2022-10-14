@@ -1,16 +1,4 @@
-# lottery_app
+This is my 2nd UI Design with Dart Functions
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Lottery App 1](https://user-images.githubusercontent.com/99208262/195933294-1ac445fd-f8e9-415f-9228-8d7bba9a95af.png)
+![Lottery App 2](https://user-images.githubusercontent.com/99208262/195933299-a7e1f1ec-8d20-44dd-b839-beac4932f895.png)
